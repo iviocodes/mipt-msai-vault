@@ -1,5 +1,3 @@
-# Graduate Student’s Scientific Notes — MIPT
-
 ## Description
 
 This repository contains a collection of scientific notes, lecture summaries, study materials, clarifications, and working code prepared by a graduate student at Moscow Institute of Physics and Technology (MIPT). The content covers a broad range of subjects: mathematics, computer science, machine learning, applied statistics, optimization methods, and more.
