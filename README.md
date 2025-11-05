@@ -9,8 +9,6 @@ This repository contains a collection of scientific notes, lecture summaries, st
 - Optimization methods
 - Artificial intelligence and machine learning
 - Algorithms and data structures
-- Applied programming in Python and C++
-- Scientific research and academic projects
 
 
 **Stay curious, keep learning, and share your knowledge!**
